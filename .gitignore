@@ -1,13 +1,13 @@
 # dependencies
-/frontend-react/node_modules
-/frontend-react/.pnp
+/frontend_react/node_modules
+/frontend_react/.pnp
 .pnp.js
 
 # testing
-/frontend-react/coverage
+frontend_react/coverage
 
 # production
-/frontend-react/build
+/frontend_react/build
 
 # misc
 .DS_Store
@@ -22,14 +22,14 @@ yarn-error.log*
 
 
 # Logs
-/backend-sanity/logs
+/backend_sanity/logs
 *.log
 
 # Coverage directory used by tools like istanbul
-/backend-sanity/coverage
+/backend_sanity/coverage/
 
 # Dependency directories
-backend-sanity/node_modules
+/backend_sanity/node_modules
 
-# Compiled sanity studio
-/backend-sanity/dist
+
+
